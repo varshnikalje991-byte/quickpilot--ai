@@ -1,0 +1,6 @@
+{
+  "name": "QuickPilot AI",
+  "description": "Capture anything in seconds and organize tasks, notes, reminders, and daily schedules with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
